@@ -22,7 +22,7 @@ This is the long version. It is written for parents, guardians, and teachers. It
 - **Email (privacy):** [contact-form]
 - **Email (safety incidents):** [contact-form]
 - **Postal:** The Lummings, Sydney NSW, Australia
-- **Website:** https://dqikfox.github.io/lummings
+- **Website:** https://optimusio.github.io/lummings
 
 The Lummings is headquartered in Australia. We sell to families in Australia, the United States, the United Kingdom, the European Union, and additional English-speaking markets.
 
@@ -35,7 +35,7 @@ This policy covers:
 - **The Lummings device** (the physical toy and its on-device software)
 - **The Lummings companion app** (the parent-facing iOS/Android/web app used to set up the device and access parent controls)
 - **Personality packs** downloaded to the device (e.g. a Sprout or Moki personality swap)
-- **The dqikfox.github.io/lummings website** and any related marketing or pre-order pages
+- **The optimusio.github.io/lummings website** and any related marketing or pre-order pages
 - **Any future firmware updates** delivered over the air to the device
 
 This policy does **not** cover third-party services that parents may choose to use alongside the device (e.g. a social-media platform where a parent posts a video of their child). Those services have their own privacy practices.
@@ -133,7 +133,7 @@ Even if you opt in to backup, the child's memory and conversation content stays 
 
 ## 8. What we collect when you visit our website
 
-When you visit **dqikfox.github.io/lummings** or related marketing pages:
+When you visit **optimusio.github.io/lummings** or related marketing pages:
 
 - **Standard server logs** (your IP address, user agent, referrer, pages visited) — kept for 30 days for security and debugging, then deleted.
 - **Cookies and analytics** — the marketing site uses a privacy-respecting analytics tool. We do not use Google Analytics, Facebook Pixel, or any ad-tech tracker on the marketing site.
@@ -332,7 +332,7 @@ We may update this policy. When we do:
 - For material changes (anything that contradicts a previous commitment in this policy), we will email registered parents at least 30 days before the change takes effect.
 - For non-material changes (typos, clarification, regulatory citations), we will update the document and post a short note on our blog.
 
-The current and prior versions of this policy are available at dqikfox.github.io/lummings/privacy.
+The current and prior versions of this policy are available at optimusio.github.io/lummings/privacy.
 
 ---
 

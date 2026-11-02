@@ -26,7 +26,7 @@ Stack:
 - Stripe for the paid pack
 - Open source repo: not linked publicly (privacy reasons)
 
-Try it: https://dqikfox.github.io/lummings/
+Try it: https://optimusio.github.io/lummings/
 
 Happy to talk about the local-LLM stack, the kids-privacy design decisions, or how I picked the 5 mascots.
 

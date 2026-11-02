@@ -95,7 +95,7 @@ Then a tiny line:
 
 **Visual:** Fade to the five Lummings sprite row, each in their default "curious" mood, evenly spaced. Below them, in the same yellow-glow font:
 > **The Lummings**
-> Reserve yours: **dqikfox.github.io/lummings**
+> Reserve yours: **optimusio.github.io/lummings**
 
 **Audio:** Synth pad fades out. A distant children's laugh, gentle.
 

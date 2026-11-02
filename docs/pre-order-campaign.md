@@ -24,7 +24,7 @@
 
 ## The campaign page
 
-URL: `https://dqikfox.github.io/lummings/reserve` (after domain setup)
+URL: `https://optimusio.github.io/lummings/reserve` (after domain setup)
 
 ### Above the fold
 
@@ -162,7 +162,7 @@ Subject: **Pre-orders are open — first 500 units**
 >
 > Reserve at the founder's price ($149). Locked in.
 >
-> [Reserve Lumo] → https://dqikfox.github.io/lummings/reserve
+> [Reserve Lumo] → https://optimusio.github.io/lummings/reserve
 >
 > What you get:
 > - The Lumo device (matte black shell, glowing dot)
@@ -187,7 +187,7 @@ Subject: **200 of 500 reserved**
 >
 > The Companion Pack ($199) gives you a choice of any Lumming + 12 months of personality swaps. Most families are picking this one.
 >
-> [Reserve yours] → https://dqikfox.github.io/lummings/reserve
+> [Reserve yours] → https://optimusio.github.io/lummings/reserve
 >
 > — the team
 
@@ -199,7 +199,7 @@ Subject: **Last 100 units at the founder's price**
 >
 > If you've been waiting, this is the moment.
 >
-> [Reserve Lumo — $149] → https://dqikfox.github.io/lummings/reserve
+> [Reserve Lumo — $149] → https://optimusio.github.io/lummings/reserve
 >
 > — the team & the Lummings
 
@@ -211,7 +211,7 @@ Subject: **The first 500 are reserved**
 >
 > If you reserved: thank you. Watch your inbox for the manufacturing update (we'll send one in 30 days).
 >
-> If you didn't: join the next-batch waitlist at https://dqikfox.github.io/lummings. The next batch ships Q1 2027 at regular pricing.
+> If you didn't: join the next-batch waitlist at https://optimusio.github.io/lummings. The next batch ships Q1 2027 at regular pricing.
 >
 > — the team & the Lummings
 
@@ -230,7 +230,7 @@ the Lummings are five small characters from the future who live on a Raspberry P
 
 pre-orders open today. first 500 ship Q4 2026.
 
-https://dqikfox.github.io/lummings
+https://optimusio.github.io/lummings
 
 [attach: hero image with the 5 Lummings sprite row]
 ```
@@ -248,7 +248,7 @@ the 5 Lummings:
 
 each runs entirely on-device. no cloud. local AI. character with memory.
 
-https://dqikfox.github.io/lummings
+https://optimusio.github.io/lummings
 ```
 
 ### Hacker News (Show HN, Day 14)
@@ -267,7 +267,7 @@ https://dqikfox.github.io/lummings
 > Pre-orders just opened: 500 units at $149, shipping Q4 2026.
 >
 > Repo: https://[opensource-repo]
-> Site: https://dqikfox.github.io/lummings/
+> Site: https://optimusio.github.io/lummings/
 >
 > Happy to answer questions about the architecture, the training pipeline, or why we chose local-only AI for a children's product.
 >
@@ -294,7 +294,7 @@ https://dqikfox.github.io/lummings
 
 ## Press kit
 
-URL: `https://dqikfox.github.io/lummings/press`
+URL: `https://optimusio.github.io/lummings/press`
 
 Includes:
 - Logo in PNG, SVG (light + dark)

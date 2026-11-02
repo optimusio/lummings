@@ -2,15 +2,15 @@
 
 Three products. One forge. Real Stripe checkout. Built solo. All open.
 
-**https://dqikfox.github.io/lummings/shop/**
+**https://optimusio.github.io/lummings/shop/**
 
 | Product | Price | Page |
 |---|---|---|
-| 🌟 The Lummings (kids' AI app) | FREE | https://dqikfox.github.io/lummings/ |
-| 🎮 The Lummings App | FREE | https://dqikfox.github.io/lummings/app/ |
-| 🦄 SHInEyVErSE (AI image/video studio) | $0 → $299 | https://dqikfox.github.io/lummings/shineyverse/ |
-| 💎 Ultra Studio (3D assets) | $19 → $499 | https://dqikfox.github.io/lummings/ultra-studio/ |
-| 📖 Character Codex | FREE | https://dqikfox.github.io/lummings/marketing/character-codex.html |
+| 🌟 The Lummings (kids' AI app) | FREE | https://optimusio.github.io/lummings/ |
+| 🎮 The Lummings App | FREE | https://optimusio.github.io/lummings/app/ |
+| 🦄 SHInEyVErSE (AI image/video studio) | $0 → $299 | https://optimusio.github.io/lummings/shineyverse/ |
+| 💎 Ultra Studio (3D assets) | $19 → $499 | https://optimusio.github.io/lummings/ultra-studio/ |
+| 📖 Character Codex | FREE | https://optimusio.github.io/lummings/marketing/character-codex.html |
 
 ---
 
@@ -51,7 +51,7 @@ Test card: `4242 4242 4242 4242` / any future expiry / any CVC.
 ```
 🚀 Just shipped a 3-product shop — kids' AI app + AI studio + 3D asset library. Built solo. Local-first. Stripe live.
 
-Shop: https://dqikfox.github.io/lummings/shop/
+Shop: https://optimusio.github.io/lummings/shop/
 Bot: https://t.me/Ultron420bot
 ```
 
@@ -63,10 +63,10 @@ Built solo in Sydney. All local-first. The Lummings is a kids' AI character app 
 
 Stripe is wired end-to-end (8 SKUs, $19-$499). Order via Telegram bot (@Ultron420bot).
 
-Shop: https://dqikfox.github.io/lummings/shop/
-Lummings: https://dqikfox.github.io/lummings/
-SHInEyVErSE: https://dqikfox.github.io/lummings/shineyverse/
-Ultra Studio: https://dqikfox.github.io/lummings/ultra-studio/
+Shop: https://optimusio.github.io/lummings/shop/
+Lummings: https://optimusio.github.io/lummings/
+SHInEyVErSE: https://optimusio.github.io/lummings/shineyverse/
+Ultra Studio: https://optimusio.github.io/lummings/ultra-studio/
 ```
 
 ### Hacker News (Show HN)
@@ -81,7 +81,7 @@ Three things in one repo:
 All local-first. Stripe wired for the 8 paid SKUs.
 Solo dev in Sydney.
 
-https://dqikfox.github.io/lummings/
+https://optimusio.github.io/lummings/
 ```
 
 ### IndieHackers post
@@ -102,7 +102,7 @@ Tagline: "Three indie products, one forge. Kids' AI characters + AI studio + 3D 
 - **Payouts:** ✅ enabled
 - **Backend:** FastAPI + uvicorn on `127.0.0.1:8522`
 - **Bot:** python-telegram-bot polling @Ultron420bot
-- **Sites:** GitHub Pages from `dqikfox.github.io/lummings/`
+- **Sites:** GitHub Pages from `optimusio.github.io/lummings/`
 - **Order log:** `C:\Users\KING\AppData\Local\hermes\audit\orders.jsonl`
 
 ---
@@ -110,9 +110,9 @@ Tagline: "Three indie products, one forge. Kids' AI characters + AI studio + 3D 
 ## 🔗 Direct links (for sticky / bio)
 
 ```
-https://dqikfox.github.io/lummings/shop/      ← MAIN
+https://optimusio.github.io/lummings/shop/      ← MAIN
 https://t.me/Ultron420bot                     ← ORDER
-https://dqikfox.github.io/lummings/           ← LUMMINGS APP
-https://dqikfox.github.io/lummings/shineyverse/  ← AI STUDIO
-https://dqikfox.github.io/lummings/ultra-studio/  ← 3D ASSETS
+https://optimusio.github.io/lummings/           ← LUMMINGS APP
+https://optimusio.github.io/lummings/shineyverse/  ← AI STUDIO
+https://optimusio.github.io/lummings/ultra-studio/  ← 3D ASSETS
 ```

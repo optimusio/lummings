@@ -77,7 +77,7 @@ This is not a get-rich-quick scheme. It's a real product business with real marg
 **Why:** Margin, customer relationship, brand control, story-telling.
 
 **Channels:**
-- Own website (dqikfox.github.io/lummings)
+- Own website (optimusio.github.io/lummings)
 - Kickstarter or pre-order campaign for first production run
 - Substack / blog content (brand storytelling)
 - TikTok / Instagram Reels (parents showing their kid's Lumming)
@@ -222,7 +222,7 @@ Either path is a win.
 
 ---
 
-## Why this is the right product for @dqikfox
+## Why this is the right product for @optimusio
 
 You have:
 - Local AI stack (Heretik, Ollama, llama.cpp) → the brain

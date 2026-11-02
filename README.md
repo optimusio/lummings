@@ -96,4 +96,4 @@ The bedtime app keeps the bond in the browser. Nothing is sent to an account. Th
 
 Code is MIT. See `LICENSE`. The names Lummings, Lumo, Luna, Sprout, Nori, Moki, the story, and the character art are not covered by that MIT grant.
 
-Maintainer: [@dqikfox](https://github.com/dqikfox), Sydney.
+Maintainer: [@optimusio](https://github.com/optimusio), Sydney.

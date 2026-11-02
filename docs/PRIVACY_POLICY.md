@@ -36,7 +36,7 @@ When you load the app or website, the hosting provider (the company that serves 
 
 ## The waitlist (adults only)
 
-The website has an optional waitlist form. If an adult enters an email address, it is sent to a small waitlist service run by the maintainer, which stores the address so we can tell you about early access. We do not sell or share it and do not use it for anything else. To have your address removed, open an issue at <https://github.com/dqikfox/lummings/issues> (do not post the address publicly; say you want it removed and we will arrange a private way to confirm).
+The website has an optional waitlist form. If an adult enters an email address, it is sent to a small waitlist service run by the maintainer, which stores the address so we can tell you about early access. We do not sell or share it and do not use it for anything else. To have your address removed, open an issue at <https://github.com/optimusio/lummings/issues> (do not post the address publicly; say you want it removed and we will arrange a private way to confirm).
 
 ## Children
 
@@ -48,10 +48,10 @@ On the grown-up screen, **Clear the bond** (enter the PIN) erases the saved prog
 
 ## Open source
 
-The code is public at <https://github.com/dqikfox/lummings> so anyone can check what it does. The names and character art are not covered by the open-source licence.
+The code is public at <https://github.com/optimusio/lummings> so anyone can check what it does. The names and character art are not covered by the open-source licence.
 
 ## Changes and contact
 
-If this policy changes, the date at the top will change. To ask a question or report a concern, open an issue at <https://github.com/dqikfox/lummings/issues>.
+If this policy changes, the date at the top will change. To ask a question or report a concern, open an issue at <https://github.com/optimusio/lummings/issues>.
 
 *The maintainer is based in Sydney, Australia.*

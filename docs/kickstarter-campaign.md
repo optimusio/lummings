@@ -148,7 +148,7 @@ A: MIT for the code. The Lummings character names, the storyline, and the Lummin
 A: Because we need production tooling capital (~$40,000), and because we want a community of families who helped us ship the first run. We don't need to validate the product; the software runs today. We need the first 500–2,000 units made.
 
 **Q: What if the campaign doesn't fund?**
-A: We don't take the money. Your card is never charged. We run a smaller direct pre-order from dqikfox.github.io/lummings (as in the existing pre-order campaign). This KS is the better path because it gives us tooling capital — but it's not the only path.
+A: We don't take the money. Your card is never charged. We run a smaller direct pre-order from optimusio.github.io/lummings (as in the existing pre-order campaign). This KS is the better path because it gives us tooling capital — but it's not the only path.
 
 ### 2.9 The final CTA
 
@@ -384,10 +384,10 @@ Three different jobs, three different assets.
 | Days before | Action |
 |---|---|
 | −60 | Press kit finalized. Brand bible published as a PDF. Press list built (60 parenting + tech journalists, 30 toy-trade publications). |
-| −50 | Founder Substack launch ("How we built a smart toy that doesn't spy on your kid"). Email list launch on dqikfox.github.io/lummings. |
+| −50 | Founder Substack launch ("How we built a smart toy that doesn't spy on your kid"). Email list launch on optimusio.github.io/lummings. |
 | −45 | Show HN draft written. IndieHackers post drafted. Reddit r/raspberry_pi, r/singularity, r/privacy drafts prepared. |
 | −40 | TikTok + Instagram + Pinterest organic content begins. The five Lummings sprite row as the primary visual. |
-| −30 | KS landing page live at `dqikfox.github.io/lummings/ks-preview`. Email-list signup with "$5 off any tier" incentive. |
+| −30 | KS landing page live at `optimusio.github.io/lummings/ks-preview`. Email-list signup with "$5 off any tier" incentive. |
 | −21 | KS project page "preview" mode enabled. Email list notified: "We go live in 3 weeks." |
 | −14 | Press embargo lifts. Pitch 12 top-tier outlets (The Verge, Wired, TechCrunch, Ars Technica, MIT Tech Review, Cool Hunting). |
 | −7 | Final email to list: "We're live in 7 days. Here's the link." |
@@ -660,7 +660,7 @@ The Lummings brand is built on warmth and patience. **The campaign should be too
 - 30-day return window opens.
 - Software updates via OTA (Wi-Fi delivered personality packs).
 - Personality packs launch at $25 each (the Companion Pack + Backer Bundle backers get 12–24 months free).
-- Year-1 DTC site (`dqikfox.github.io/lummings`) opens for non-backer orders.
+- Year-1 DTC site (`optimusio.github.io/lummings`) opens for non-backer orders.
 
 ---
 

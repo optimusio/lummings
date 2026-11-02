@@ -15,7 +15,7 @@
 | **Tagline** | Little friends from a brighter tomorrow. |
 | **Founder** | the team |
 | **Founded** | Sydney, Australia |
-| **Website** | https://dqikfox.github.io/lummings (placeholder: https://dqikfox.github.io/lummings/) |
+| **Website** | https://optimusio.github.io/lummings (placeholder: https://optimusio.github.io/lummings/) |
 | **Repo** | https://[opensource-repo] |
 | **Pre-order** | First 500 units, $149, shipping Q4 2026 |
 | **Stage** | Pre-revenue, hardware tooling in progress |

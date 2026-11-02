@@ -123,7 +123,7 @@ HTML = """<!doctype html>
 </div>
 
 <footer>
-  ★ THE LUMMINGS ★ · <a href="https://dqikfox.github.io/lummings/marketing/character-codex.html" target="_blank">FULL CHARACTER CODEX</a>
+  ★ THE LUMMINGS ★ · <a href="https://optimusio.github.io/lummings/marketing/character-codex.html" target="_blank">FULL CHARACTER CODEX</a>
 </footer>
 
 <script>

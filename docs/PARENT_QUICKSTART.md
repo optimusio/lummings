@@ -170,7 +170,7 @@ Topic categories discussed, refusal events (count only, no content), and a weekl
 
 ## 5. The five Lummings
 
-The device ships with one personality. You can install additional personalities at any time from dqikfox.github.io/lummings/personalities (one-way download, no subscription).
+The device ships with one personality. You can install additional personalities at any time from optimusio.github.io/lummings/personalities (one-way download, no subscription).
 
 ### Lumo — the curious explorer
 **For:** children who ask "why?" a lot.
@@ -349,7 +349,7 @@ Factory-reset the device (pinhole button, hold 10 seconds with a paperclip). Thi
 - **Privacy questions:** [contact-form]
 - **Safety incidents:** [contact-form] (we acknowledge within 4 hours)
 - **General support:** [contact-form]
-- **Website:** dqikfox.github.io/lummings
+- **Website:** optimusio.github.io/lummings
 
 We are a small team. We read every email.
 

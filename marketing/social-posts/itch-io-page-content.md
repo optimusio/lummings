@@ -25,7 +25,7 @@ Everything runs on your device. The AI model (quantized 7B), the conversation me
 
 **Pricing:** Free. Optional $29 asset pack with 60 portraits.
 
-**External link:** https://dqikfox.github.io/lummings/
+**External link:** https://optimusio.github.io/lummings/
 
 **Cover image:** the hero-screenshot.png (1600x900)
 

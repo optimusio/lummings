@@ -4,11 +4,11 @@
 The site is published by GitHub Pages from the ``docs/`` directory and is
 served from the ``/lummings/`` mount of the user site, e.g.
 
-    https://dqikfox.github.io/lummings/          <- site root  (== docs/)
-    https://dqikfox.github.io/lummings/shop/     <- docs/shop/
+    https://optimusio.github.io/lummings/          <- site root  (== docs/)
+    https://optimusio.github.io/lummings/shop/     <- docs/shop/
 
 That mount matters. A root-absolute reference such as ``href="/shop/"``
-resolves to ``https://dqikfox.github.io/shop/`` - the *user* site, which does
+resolves to ``https://optimusio.github.io/shop/`` - the *user* site, which does
 not exist - so it 404s. Every reference therefore has to stay inside the
 mount, and every target has to exist.
 

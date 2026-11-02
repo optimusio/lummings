@@ -26,7 +26,7 @@ What's different:
 - **Parent controls**: Refusal library, time limits, parent PIN, memory wipe one-touch.
 - **Open source**: Auditable.
 
-Try it: https://lummings.theindieforge.com (or https://dqikfox.github.io/lummings/)
+Try it: https://lummings.theindieforge.com (or https://optimusio.github.io/lummings/)
 
 ## Category / Tags
 Kids AI, character AI, educational, privacy-first, local-first, open source, web app, indie, no subscription
@@ -38,9 +38,9 @@ Kids AI, character AI, educational, privacy-first, local-first, open source, web
 
 ## URLs to submit
 
-**Primary**: https://dqikfox.github.io/lummings/
-**Shop**: https://dqikfox.github.io/lummings/shop/
-**Demo**: https://dqikfox.github.io/lummings/demo/
+**Primary**: https://optimusio.github.io/lummings/
+**Shop**: https://optimusio.github.io/lummings/shop/
+**Demo**: https://optimusio.github.io/lummings/demo/
 
 ## 1-sentence tagline
 Five local-AI characters for kids. No cloud, no subscription, no surveillance.
