@@ -42,8 +42,11 @@ test("no third-party hosts or remote scripts in the app source", () => {
 
 test("the server voice fallback is limited, keyless in source, and only the server file can reach it", () => {
   const server = read(join(ROOT, "src/lib/eleven-tts.server.ts"));
-  assert.match(server, /VOICES\.has\(voiceId\)/, "voice ids must be allow-listed");
-  assert.match(server, /\.slice\(0, 1400\)/, "text length must be capped");
+  assert.match(server, /knownLines\(\)\.has\(text\)/, "only known authored lines may be spoken");
+  assert.match(server, /friend\.voiceId === voiceId/, "only the friends' own voices may be used");
+  assert.match(server, /maxTextLength/, "text length must be capped");
+  assert.match(server, /voiceGlobalPerDay/, "a global spend limit must exist");
+  assert.doesNotMatch(server, /readFileSync|node:fs|\.grok/, "the key must come from the environment only");
   assert.doesNotMatch(server, /xi-api-key["']?\s*:\s*["'][A-Za-z0-9_-]{12,}/, "no API key may be written in source");
   for (const file of sourceFiles.filter((f) => /\.(ts|tsx)$/.test(f) && f !== join(ROOT, "src/lib/eleven-tts.server.ts"))) {
     assert.doesNotMatch(read(file), /api\.elevenlabs\.io/, `${file} calls ElevenLabs directly from the browser`);

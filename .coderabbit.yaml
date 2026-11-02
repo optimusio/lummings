@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
+language: en-US
+reviews:
+  profile: chill
+  high_level_summary: true
+  auto_review:
+    enabled: true
+    drafts: false
+  path_instructions:
+    - path: "web/**"
+      instructions: "Follow AGENTS.md. Flag any child-visible use of the retired names Lila or Pip, any tracking, and any secret in client code."
+    - path: "**/*.md"
+      instructions: "Check public copy against BRAND.md and SOURCE_OF_TRUTH.md."
+chat:
+  auto_reply: true

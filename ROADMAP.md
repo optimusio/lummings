@@ -70,7 +70,7 @@ Shared foundations every line needs: the **character registry** (one source of t
 
 **Now**
 1. Decide the hosting address, then set `VITE_SITE_URL` so link previews get an absolute image.
-2. Finish the recordings (several are now in `public/voices`). Lines without a recording fall back to a server call to ElevenLabs; harden that endpoint first (it is open to anyone and spends your credits; see `docs/LAUNCH_READINESS.md`). Browser speech stays off.
+2. Finish the recordings (several are now in `public/voices`). Lines without a recording fall back to a server call to ElevenLabs; the endpoint is now hardened (known lines only, rate limits, cache, key from the environment); set an ElevenLabs usage limit as the hard ceiling. Browser speech stays off.
 3. Phone QA: install to the home screen, hear an intro, open a story, hit the parent gate. Log defects.
 4. Safety review items: the first person to open the grown-up screen can set the PIN (a child could do so before a parent), and the PIN is stored unhashed.
 
@@ -144,3 +144,4 @@ Until Stage 2 passes, the Lummings show a living character with Pixel's procedur
 - Five ElevenLabs voices designed for the five friends.
 - Executive summary: `docs/EXECUTIVE_SUMMARY.md`; launch readiness: `docs/LAUNCH_READINESS.md`.
 - Fix pass (27 October 2026; also repaired a production build that the latest voice commits had broken): web scaffolding and the Grok builder layer removed; privacy, PWA and canon guard tests added; CI now runs Python, web and lint; 75 corrupted links repaired; home page claims corrected; privacy policy rewritten; Sprout's 100 training pairs rewritten in the quiet voice; Python lint clean.
+- Voice endpoint hardened (28 October 2026): known authored lines only, the five friends' voices only, response cache, per-client and global rate limits, key from `ELEVENLABS_API_KEY` only (sandbox key-file fallback removed); 11 tests, each protection verified by breaking it, and checked end to end in the production build.
