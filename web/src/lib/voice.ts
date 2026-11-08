@@ -21,6 +21,8 @@ const OWN: Record<CrewId, Record<string, string>> = {
     kind: "/voices/sprout-kind.mp3",
     line: "/voices/sprout-trail.mp3",
     quest: "/voices/sprout-trail.mp3",
+    song: "/voices/sprout-song.mp3",
+    encore: "/voices/sprout-encore.mp3",
   },
   luna: {
     hug: "/voices/luna-hug.mp3",
@@ -30,6 +32,8 @@ const OWN: Record<CrewId, Record<string, string>> = {
     kind: "/voices/luna-kind.mp3",
     line: "/voices/luna-welcome.mp3",
     quest: "/voices/luna-welcome.mp3",
+    song: "/voices/luna-song.mp3",
+    encore: "/voices/luna-encore.mp3",
   },
   lumo: {
     hug: "/voices/lumo-hug.mp3",
@@ -39,6 +43,8 @@ const OWN: Record<CrewId, Record<string, string>> = {
     kind: "/voices/lumo-crew.mp3",
     line: "/voices/lumo-crew.mp3",
     quest: "/voices/lumo-quest.mp3",
+    song: "/voices/lumo-song.mp3",
+    encore: "/voices/lumo-encore.mp3",
   },
   nori: {
     hug: "/voices/nori-hug.mp3",
@@ -48,6 +54,8 @@ const OWN: Record<CrewId, Record<string, string>> = {
     kind: "/voices/nori-kind.mp3",
     line: "/voices/nori-line.mp3",
     quest: "/voices/nori-quest.mp3",
+    song: "/voices/nori-song.mp3",
+    encore: "/voices/nori-encore.mp3",
   },
   moki: {
     hug: "/voices/moki-hug.mp3",
@@ -57,6 +65,8 @@ const OWN: Record<CrewId, Record<string, string>> = {
     kind: "/voices/moki-chaos.mp3",
     line: "/voices/moki-line.mp3",
     quest: "/voices/moki-quest.mp3",
+    song: "/voices/moki-song.mp3",
+    encore: "/voices/moki-encore.mp3",
   },
 };
 
@@ -91,7 +101,7 @@ export function clipFor(text: string, crew?: CrewId): string | undefined {
   const friend = crewById(crew);
   if (text === friend.hello) return INTRO[crew];
   const own = OWN[crew];
-  for (const key of ["hug", "goodnight", "moon", "sleep", "kind", "line", "quest"] as const) {
+  for (const key of ["hug", "goodnight", "moon", "sleep", "kind", "line", "quest", "song", "encore"] as const) {
     if (text === friend[key]) return own[key];
   }
   return undefined;

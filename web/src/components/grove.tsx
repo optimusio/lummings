@@ -9,6 +9,7 @@ import {
   Mic,
   MicOff,
   Moon,
+  Music,
   Shield,
   Sparkles,
   Star,
@@ -447,6 +448,8 @@ function Home() {
       <div className="grid grid-cols-2 gap-2">
         <Chip icon={<Moon className="size-5" />} label="Moon" onClick={() => say(friend.moon, true)} />
         <Chip icon={<Sparkles className="size-5" />} label="Sleep" onClick={() => say(friend.sleep, true)} />
+        <Chip icon={<Music className="size-5" />} label="Sing" onClick={() => say(friend.song, false)} />
+        <Chip icon={<Star className="size-5" />} label="Encore" onClick={() => say(friend.encore, false)} />
       </div>
       <div className="flex justify-center">
         <button

@@ -30,6 +30,8 @@ export type Crew = {
   sleep: string;
   quest: string;
   kind: string;
+  song: string;
+  encore: string;
 };
 
 export const CREW: Crew[] = [
@@ -51,6 +53,8 @@ export const CREW: Crew[] = [
     sleep: "You don't have to be brave to rest. Tuck in. I'll watch the path until morning.",
     quest: "The trail is glowing. Perfect, let's check it.",
     kind: "You showed up. That's already a bright thing.",
+    song: "Boots on the path, soft and slow. Moss says hello, the lantern glows. You don't have to hurry. I'll walk too.",
+    encore: "Acorn lantern, little light. The path can sleep. So can the night.",
   },
   {
     id: "luna",
@@ -70,6 +74,8 @@ export const CREW: Crew[] = [
     sleep: "Sleepy time, and I am still smiling. I'll hold the pencil, you hold the blanket, and the page will wait. Sweet dreams, friend!",
     quest: "Welcome to a world of stories.",
     kind: "You are already in the good part of the story.",
+    song: "Turn the page, turn the page, something kind is on the way. Stars in the margin, a giggle in the line.",
+    encore: "One more sparkle, then we close the book. I'll keep your place.",
   },
   {
     id: "lumo",
@@ -90,6 +96,8 @@ export const CREW: Crew[] = [
     sleep: "Even captains log off. One more quiet breath, then the lantern takes the night shift.",
     quest: "Player one, crew first. Let's illuminate together.",
     kind: "Player one, crew first.",
+    song: "Player one, hands up high. Crew first, you and I. One more quest, then we rest.",
+    encore: "Save the game, save the smile. We can play again in a while.",
   },
   {
     id: "nori",
@@ -109,6 +117,8 @@ export const CREW: Crew[] = [
     sleep: "Questions can wait on the shore. I'll keep them safe until morning.",
     quest: "A quest can be quiet. We'll follow the tide-light and come home.",
     kind: "A little light stays with you. You only have to rest.",
+    song: "The moon walks beside, not behind. Lantern low, the tide is kind. Nori stays.",
+    encore: "Hush, the water knows the way. Morning will find you. Rest, and stay.",
   },
   {
     id: "moki",
@@ -128,6 +138,8 @@ export const CREW: Crew[] = [
     sleep: "Can't sleep? We'll count sparkles, not worries. I'll go first. One.",
     quest: "A quest with a wobble is still a quest. I'll bring the fun kind of glitch.",
     kind: "Ta-da. The glitch gremlin arrives. Whoops, drumroll fail. Perfect chaos.",
+    song: "Plot twist, sparkle crash. The drum went sideways and we laughed. Moki's song is a happy beep.",
+    encore: "One more beep, then the lights go low. Even chaos needs a pillow.",
   },
 ];
 
@@ -192,7 +204,7 @@ export type Play =
   | { kind: "spot"; prompt: string; items: string[]; odd: string };
 
 export type Choice = { label: string; next: string; playful?: boolean };
-export type Beat = { text: string; choices?: Choice[]; end?: boolean; play?: Play };
+export type Beat = { text: string; choices?: Choice[]; end?: boolean; plus?: boolean; play?: Play };
 export type Story = {
   id: string;
   crew: CrewId;
